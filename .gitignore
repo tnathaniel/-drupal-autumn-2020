@@ -1,0 +1,5 @@
+#Ignore the sql backup file and any settings.php and settings backup files
+#
+my-drupal-db-backup.sql
+sites/default/setttings.php
+sites/default/setttings.php.orig
